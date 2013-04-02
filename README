@@ -1,0 +1,5 @@
+This repository is an example of a LaunchAgent script to mount network shares for an active directory user based on the the fully distinquished username.
+
+Based on whether the user is a Student, Generic or Employee account, different shares get mounted.  
+
+The repository includes the shell script as well as the plist to implement the script as a LaunchAgent
